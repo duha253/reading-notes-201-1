@@ -22,7 +22,7 @@
 | ------------- | ------------- |
 |  reading assignments | title|
 | reading 01 |   [class 01]( https://duha253.github.io/reading-n201-1a/)     |
-| reading  02|        |
+| reading  02|    [class 02](https://duha253.github.io/class-201-02/ )    |
 | reading 03 |     |
 | reading  04|     |
 | reading 05 |     |
