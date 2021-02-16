@@ -1,13 +1,14 @@
 # What's a Table?
--A table represents information in a grid format. 
+A table represents information in a grid format. 
 
 ### -Basic Table Structure
+
 <table>  element tag to create table.
 <tr> start the table using it.(table row).
 <td> to write the table data.
 <th> table heading to represent the heading for either a column or a row.
 
-### how to create a table in html ,
+### how to create a table in html 
 
 - put < table> tag to create table.
 
@@ -22,11 +23,11 @@
 
 **Tables Long , for the long of the  table we can write the table inside these elements** 
 
-- <thead the heading of the table will written inside it .
+- <thead> the heading of the table will written inside it .
 
-- <tfoot the footer of the table will written inside it. 
+- <tfoot> the footer of the table will written inside it. 
 
-- <tbody  the body of the table will written inside it.
+- <tbody>  the body of the table will written inside it.
 
 
  ### So the table
@@ -40,10 +41,6 @@
 - You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
 
 - For long tables you can split the table into a <thead>,<tbody>, and <tfoot>.
-
-
-
-
 
 
 

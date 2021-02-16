@@ -28,7 +28,7 @@
 | reading 05 |     |
 | reading  06| [class 06](https://duha253.github.io/reading-notes-201-1/read06)  |
 | reading  07|  [class 07](https://duha253.github.io/reading-notes-201-1/read07)   |
-| reading  08|     |
+| reading  08|    [class 08](https://duha253.github.io/reading-notes-201-1/read08)   |  |
 | reading  09|     |
 | reading  10|     |
 | reading  11|     |
