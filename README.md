@@ -31,7 +31,7 @@
 | reading  08|[class 08](https://duha253.github.io/reading-notes-201-1/read08)   |  |
 | reading  09|[class 09](https://duha253.github.io/reading-notes-201-1/read09)     |
 | reading  10|[class 10](https://duha253.github.io/reading-notes-201-1/read10)     |     |
-| reading  11|     |
+| reading  11| [class 11](https://duha253.github.io/reading-notes-201-1/read11)    |
 | reading  12|     |
 | reading  13|     |
 | reading  14|     |
