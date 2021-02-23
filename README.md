@@ -33,7 +33,7 @@
 | reading  10|[class 10](https://duha253.github.io/reading-notes-201-1/read10)     |     |
 | reading  11| [class 11](https://duha253.github.io/reading-notes-201-1/read11)    |
 | reading  12| [class 12](https://duha253.github.io/reading-notes-201-1/read12)    |
-| reading  13|     |
+| reading  13| [class 13](https://duha253.github.io/reading-notes-201-1/read13)    |
 | reading  14|     |
 | reading  15|     |
 
