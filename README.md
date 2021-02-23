@@ -34,7 +34,8 @@
 | reading  11| [class 11](https://duha253.github.io/reading-notes-201-1/read11)    |
 | reading  12| [class 12](https://duha253.github.io/reading-notes-201-1/read12)    |
 | reading  13| [class 13](https://duha253.github.io/reading-notes-201-1/read13)    |
-| reading  14| [class 14](https://duha253.github.io/reading-notes-201-1/read14)     |
+| reading  14a|[class 14a](https://duha253.github.io/reading-notes-201-1/read14a)     |
+| reading  14b|[class 14b](https://duha253.github.io/reading-notes-201-1/read14b)  |
 | reading  15|     |
 
 
