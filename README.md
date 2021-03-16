@@ -1,6 +1,10 @@
+#### My name is Duha yousef , I hold masters Degree in business adminstration at yarmouk university ,I joined this course to enhance my skills,and increas my knoledge.
+ 
+ :smile:  :yellow_heart:  :yellow_heart:
+
 ## _Welcome to GitHub Pages_
 
-### reading note 102
+## reading note 102-Intro to Software Development
 
 | **table of contents** | 102 |
 | ------------- | ------------- |
@@ -16,7 +20,7 @@
 
 
 
-### reading note 201
+## reading note 201-Foundations of Software Development
 
 | **table of contents** | 201 |
 | ------------- | ------------- |
@@ -40,7 +44,33 @@
 
 
 
-[Github](https://github.com/duha253)
+
+## Code 301 - Intermediate Software Development
+
+| **table of contents** | 301 |
+------| -----
+read01-301 | [read01-301]()
+read02-301 | [read02-301]()
+read03-301 | [read03-301]()
+read04-301 | [read04-301]()
+read05-301 | [read05-301]()
+read06-301 | [read06-301]()
+read07-301 | [read07-301]()
+read08-301 | [read08-301]()
+read09-301 | [read09-301]()
+read10-301 | [read10-301]()
+read11-301 | [read11-301]()
+read13-301 | [read12-301]()
+
+
+
+
+
+#### My gitHub :
+[My-github](https://github.com/duha253)
+[My-Linkedin](https://www.linkedin.com/in/duha-yousef-a3ab16181/)
+[My-slack](https://app.slack.com/client/TNGRRLUMA/all-dms/user_profile/U01L47YFW2C)
+:red_heart:
 
 
 ![Github](https://th.bing.com/th/id/Rbb43e4f9f795dae00c2c27dc6d75150f?rik=gFOyiN4iYD%2bHFw&riu=http%3a%2f%2fwww.molecularecologist.com%2fwp-content%2fuploads%2f2013%2f11%2fgithub-logo.jpg&ehk=gvzi%2fGWz8K5TajbNZLXBoLR7UFb5la7IweEqLZhm4Kc%3d&risl=&pid=ImgRaw)
