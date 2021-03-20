@@ -49,7 +49,7 @@
 
 | **table of contents** | 301 |
 ------| -----
-read01-301 | [read01-301]()
+read01-301 | [read01-301](https://duha253.github.io/reading-notes-201-1/read01-301)|
 read02-301 | [read02-301]()
 read03-301 | [read03-301]()
 read04-301 | [read04-301]()
