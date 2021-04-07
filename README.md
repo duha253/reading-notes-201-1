@@ -62,6 +62,7 @@ read10-301 | [read10-301](https://duha253.github.io/reading-notes-201-1/read10-3
 read11-301 | [read11-301](https://duha253.github.io/reading-notes-201-1/read11-301)|
 read12-301 | [read12-301](https://duha253.github.io/reading-notes-201-1/read12-301)|
 read13-301 | [read13-301](https://duha253.github.io/reading-notes-201-1/read13-301)|
+read14-301 | [read14-301](https://duha253.github.io/reading-notes-201-1/read14-301)|
 
 
 
